@@ -32,16 +32,17 @@ Tengo 14 años y soy desarrollador de aplicaciones con **Electron, HTML, CSS y J
 
 ---
 
-## 📊 Lenguajes más usados
+## 📊 Lenguajes que más uso
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepnicka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+✅ **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+⚙️ **Backend:** Node.js, Firebase  
+🖥️ **Escritorio:** Electron
 
 ---
 
 ## 📫 Contacto
 
-- 💬 **Discord**: `stepnicka.dev`
-- 🌐 **Web oficial**: [stepnicka.com](https://stepnicka.com)
+- 💬 **Discord**: `[stepnicka.dev](https://discord.gg/YAqpTWQByM)`
 
 ---
 
