@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Santiago (Stepnicka)
 
-Tengo 14 años y soy desarrollador de aplicaciones con **Electron, HTML, CSS y JavaScript**. Me enfoco en mejorar la experiencia de usuario creando herramientas útiles, rápidas y visualmente atractivas.
+Soy Santiago, el creador de StepLauncher. Desarrollo apps fluidas, útiles y visualmente potentes con Electron, HTML, CSS y JavaScript.
 
 ---
 
