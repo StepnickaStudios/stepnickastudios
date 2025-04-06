@@ -42,7 +42,8 @@ Tengo 14 años y soy desarrollador de aplicaciones con **Electron, HTML, CSS y J
 
 ## 📫 Contacto
 
-- 💬 **Discord**: `[stepnicka.dev](https://discord.gg/YAqpTWQByM)`
+- 💬 **Discord**: <a href="https://discord.gg/YAqpTWQByM">Discord de StepLauncher</a>
+
 
 ---
 
