@@ -1,6 +1,9 @@
+---
+
 # 👋 ¡Hola! Soy Santiago (Stepnicka)
 
-Soy Santiago, el creador de StepLauncher. Desarrollo apps fluidas, útiles y visualmente potentes con Electron, HTML, CSS y JavaScript.
+Soy Santiago Stepnicka y tengo 14 años aprendiendo el mundo de la programacion desarrollador FullStack y soy el creador de StepLauncher. Desarrollo apps fluidas, útiles y visualmente potentes con Electron, HTML, CSS, Java, Python y JavaScript.
+Ago extensiones para VsCode, que sean ToolKit, o mejor dicho, un PACK de snippets que te pueden ayudar en tu proyecto para ir mas rapido!
 
 ---
 
@@ -29,14 +32,17 @@ Soy Santiago, el creador de StepLauncher. Desarrollo apps fluidas, útiles y vis
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 📊 Lenguajes que más uso
 
 ✅ **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
-⚙️ **Backend:** Node.js, Firebase  
-🖥️ **Escritorio:** Electron
+⚙️ **Backend:** Node.js, Firebase, Python, Java  
+🖥️ **Escritorio:** Electron  
 
 ---
 
@@ -44,9 +50,12 @@ Soy Santiago, el creador de StepLauncher. Desarrollo apps fluidas, útiles y vis
 
 - 💬 **Discord**: <a href="https://discord.gg/YAqpTWQByM">Discord de StepLauncher</a>
 
+- 🌟 **VSCode Extension**: [Stepnicka ToolKit](https://marketplace.visualstudio.com/items?itemName=stepnicka.steplauncher)
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
+
+---
