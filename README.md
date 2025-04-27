@@ -50,7 +50,7 @@ Ago extensiones para VsCode, que sean ToolKit, o mejor dicho, un PACK de snippet
 
 - 💬 **Discord**: <a href="https://discord.gg/YAqpTWQByM">Discord de StepLauncher</a>
 
-- 🌟 **VSCode Extension**: [Stepnicka ToolKit](https://marketplace.visualstudio.com/items?itemName=stepnicka.steplauncher)
+- 🌟 **VSCode Extension**: [Stepnicka ToolKit](https://marketplace.visualstudio.com/items?itemName=StepnickaStudio.stepnicka-toolkit)
 
 ---
 
