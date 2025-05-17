@@ -1,8 +1,13 @@
+<style>
+  body{
+    background: #000;
+  }
+</style>
 ---
 
 # 👋 ¡Hola! Soy Santiago (Stepnicka)
 
-Soy Santiago Stepnicka y tengo 14 años aprendiendo el mundo de la programacion desarrollador FullStack y soy el creador de StepLauncher. Desarrollo apps fluidas, útiles y visualmente potentes con Electron, HTML, CSS, Java, Python y JavaScript.
+Soy Santiago Stepnicka y tengo 15 años aprendiendo el mundo de la programacion desarrollador FullStack y soy el creador de StepLauncher. Desarrollo apps fluidas, útiles y visualmente potentes con Electron, HTML, CSS, Java, Python y JavaScript.
 Ago extensiones para VsCode, que sean ToolKit, o mejor dicho, un PACK de snippets que te pueden ayudar en tu proyecto para ir mas rapido!
 
 ---
