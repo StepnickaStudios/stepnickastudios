@@ -1,8 +1,3 @@
-<style>
-  body{
-    background: #000;
-  }
-</style>
 ---
 
 # 👋 ¡Hola! Soy Santiago (Stepnicka)
@@ -22,7 +17,7 @@ Ago extensiones para VsCode, que sean ToolKit, o mejor dicho, un PACK de snippet
   Plataforma de juegos simple, segura y sin registro.  
   *Estado: En desarrollo*
 
-- ☁️ **Stepnicka Studios Web**  
+- ☁️ **NovaStep Studios - Web**  
   Sitio oficial para mis proyectos y comunidad.  
   *Estado: En desarrollo*
 
